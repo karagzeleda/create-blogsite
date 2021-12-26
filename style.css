@@ -1,0 +1,124 @@
+/*Navigation-Bar Font Değişimi*/
+
+.navbar-brand {
+    font-family: 'Raleway', sans-serif;
+}
+
+
+/*Anasayfa Bölümünün Stilleri*/
+
+.dark-bg {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, .9)), url('../img/bg.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    text-align: center;
+}
+
+#anasayfa .container {
+    height: 50vh;
+}
+
+
+/*Breadcrumb Bölümünün Stilleri*/
+
+.breadcrumb {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: moccasin;
+    border-width: 15px;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 30px;
+}
+
+.hover:link {
+    color: navy;
+}
+
+.hover:visited {
+    color: maroon;
+}
+
+
+/*Hakkında Bölümünün Stilleri*/
+
+.generic {
+    padding: 20px 0;
+}
+
+.generic img {
+    padding: 20px 20px;
+}
+
+#social-media {
+    width: 200px;
+    height: 50px;
+    border: 1px solid coral;
+    border-radius: 50px;
+    text-align: center;
+    margin: 10px;
+}
+
+
+/*Galeri Bölümünün Stilleri*/
+
+.gallery {
+    background-color: #9da2cf;
+    padding: 90px o;
+}
+
+.gallery h2 {
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+img {
+    max-width: 100%;
+}
+
+.gallery img {
+    background-color: mintcream;
+    padding: 15px;
+    width: 100%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    border-radius: 30px;
+}
+
+#gallery-modal .modal-img {
+    width: 100%;
+}
+
+
+/*Projeler Bölümünün Stilleri*/
+
+.blog {
+    background-color: darkseagreen;
+    padding: 90px o;
+}
+
+.blog h2 {
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#projeler .container {
+    max-height: 200vh;
+    padding-bottom: 10px;
+}
+
+
+/*İletişim Bölümünün Stilleri*/
+
+.contact {
+    background-color: coral;
+    padding: 50px 100px;
+    margin: 100px;
+    border-radius: 50px;
+}
+
+#iletişim .container {
+    max-height: 20vh;
+}
