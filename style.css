@@ -8,7 +8,7 @@
 /*Anasayfa Bölümünün Stilleri*/
 
 .dark-bg {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, .9)), url('../img/bg.jpg');
+    background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, .9)), url('img/bg.jpg');
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
