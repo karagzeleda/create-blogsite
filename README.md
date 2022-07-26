@@ -1,1 +1,1 @@
-Web sayfası oluşturma.
+Web sitesi oluşturma.
