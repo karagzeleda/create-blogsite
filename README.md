@@ -1,1 +1,1 @@
-# karagzeleda.github.io
+Web sayfası oluşturma.
