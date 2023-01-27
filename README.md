@@ -1,1 +1,1 @@
-Web sitesi oluşturma.
+Blog Site Yapımı.
